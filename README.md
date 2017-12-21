@@ -48,9 +48,14 @@ curl -XGET 'localhost:9200/blogpost-index/blog_post_index/1?pretty'
 }
 ```
 
-如果对你有帮助欢迎关注我的知乎
+如果对你有帮助欢迎关注我
 
-[临书](https://www.zhihu.com/people/tmpbook/activities)
+知乎：[临书](https://www.zhihu.com/people/tmpbook/activities)
 
-或者我的公众号：随心DevOps (Use Wechat)
+或者我的公众号：
 
+<div align=center>
+    <img width="150" height="150" src="qrcode.jpg"/>
+</div>
+
+<div align=right>谢谢阅读</div>
